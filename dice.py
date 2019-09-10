@@ -14,3 +14,5 @@ print("Ratio of player1 wins =", player1wins/ntrials) #this prints the ratio of 
 
 probability = player1wins/ntrials * 100 # multiplies p(layer1wins/ntrials) by 100
 print("Player 1's winning probability is", probability, "percent.") #this prints out the percentage
+
+#completed using original version of homewokr sheet

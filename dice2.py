@@ -18,3 +18,4 @@ print("Ratio of player1wins =", player1wins/ntrials)
 probability = player1wins/ntrials * 100
 print("Player 1's winning probability is", probability, "percent. The percentage of winning for player 1 increases with this new rule added, that states player 1 wins if player 2 rolls two # 2's.")
 
+#completed using original version of homework
